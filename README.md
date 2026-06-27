@@ -11,6 +11,8 @@ The model is based on the layout of XOXO 2024, featuring our venue, Washington H
 
 ## Explore Logo Lego Set
 
+<img src="Explore%20Logo%20Lego%20Set/Explore%20Logo%20Render%201.jpg" alt="Explore Logo Lego Set" width="600">
+
 The model features our new “XOXO Explore” logo, designed by Jen and Richard from Skinny Ships, and is made of 324 1x1 Lego tiles in all eight festival year colors.
 
 - [Build Instructions](https://github.com/xoxo/lego/blob/main/Explore%20Logo%20Lego%20Set/Instructions%20-%20Explore%20Logo.pdf) (.pdf)
