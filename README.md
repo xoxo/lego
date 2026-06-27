@@ -2,6 +2,8 @@
 
 ## Washington High Lego Set
 
+![Washington High Lego Set](Washington%20High%20Lego%20Set/Washington%20High%20Render%201.jpg)
+
 The model is based on the layout of XOXO 2024, featuring our venue, Washington High, our entrance structure, outdoor tent, food carts, and picnic tables. The rear of the model opens to reveal a Lego microfigure conference speaker standing in front of a custom printed XOXO Explore logo tile. 
 
 - [Build Instructions](https://github.com/xoxo/lego/blob/main/Washington%20High%20Lego%20Set/Instructions%20-%20Washington%20High.pdf) (.pdf)
