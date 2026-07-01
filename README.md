@@ -22,6 +22,4 @@ The model features our new “XOXO Explore” logo, designed by Jen and Richard 
 
 Models designed by Portland LEGO® designer Nate Funk. Shipped sets assembled by [Brickdiculous](https://brickdiculous.com) in Portland, OR.
 
-## Disclaimer
-
 LEGO® is a trademark of the LEGO Group of companies, which does not sponsor, authorize, or endorse this project.
