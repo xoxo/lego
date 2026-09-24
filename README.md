@@ -14,7 +14,7 @@ The set is based on the layout of XOXO 2024, featuring our venue, Washington Hig
 
 - [Buy bricks on BrickLink](https://www.bricklink.com/v3/studio/design.page?idModel=847735)
 - [Instructions .pdf](Washington%20High%20Lego%20Set/Washington%20High%20Instructions.pdf)
-- [BrickLink Studio .io Model](Washington%20High%20Lego%20Set/Washington%20High%20BrickLink%20Model.io)
+- [BrickLink Studio Model .io](Washington%20High%20Lego%20Set/Washington%20High%20BrickLink%20Model.io)
 
 ## Explore Logo Model
 
@@ -24,7 +24,7 @@ The set features our “XOXO Explore” logo, designed by Jen and Richard from [
 
 - [Buy bricks on BrickLink](https://www.bricklink.com/v3/studio/design.page?idModel=847733)
 - [Instructions .pdf](Explore%20Logo%20Lego%20Set/Explore%20Logo%20Instructions.pdf)
-- [BrickLink Studio .io Model](Explore%20Logo%20Lego%20Set/Explore%20Logo%20BrickLink%20Model.io)
+- [BrickLink Studio Model .io](Explore%20Logo%20Lego%20Set/Explore%20Logo%20BrickLink%20Model.io)
 
 ## Credits
 
